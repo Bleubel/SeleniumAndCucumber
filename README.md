@@ -20,14 +20,6 @@ Requisitos necesarios para el correcto funcionamiento del template y cómo insta
 * [TestNG](https://testng.org/doc/download.html), disponible también desde el  _Marketplace_  de Eclipse.
 
 
-### Instalación 🔧
-
-A continuación se describen los pasos para descargar e instalar el template en tu IDE de preferencia.
-
-1. Descargar una copia o clonar el código del repositorio desde GitHub.
-2. Importar el proyecto en el IDE, recordar hacerlo como proyecto de tipo “Maven project”.
-3. Al finalizar la importación, el proyecta está listo para usarse.
-
 ## Diseño de pruebas ⚙️
 
 A continuación de presenta información y ejemplos que detallan cómo comenzar a crear las pruebas automatizadas usando las clases del template.
@@ -226,13 +218,4 @@ La clase  _UIElement_  sustituye a la clase  _WebElement_  de Selenium encapsula
 * [TestNG](https://testng.org/doc/) - Framework de pruebas.
 * [Maven](https://maven.apache.org/) - Herramienta de construcción de proyecto y gestión de dependencias.
 
-## Autores ✒️
 
-* [**QAlified**](https://qalified.com/)
-
-## Contacto 📢
-
-info@qalified.com
-
----
-⌨️ con ❤️ por QAlified
